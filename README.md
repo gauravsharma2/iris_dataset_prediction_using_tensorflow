@@ -1,5 +1,5 @@
 # IRIS Flower prediction using Tensorflow
-Today I want you to show how you can use the **Tensorflow** to train **Iris Dataset**, a model that can categorize data.
+In this code, I want you to show how you can use the **Tensorflow** to train **Iris Dataset**, a model that can categorize data.
 ## IRIS Dataset
 This is probably the most versatile, easy and resourceful data set in pattern recognition literature. Nothing could be simpler than iris data set to learn classification techniques. If you are totally new to data science, this is your start line. The data has only 150 rows & 4 columns.
 The data set contains 50 records of 3 species of Iris:
