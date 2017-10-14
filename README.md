@@ -28,3 +28,4 @@ We'll write code to perform the following five steps:
 3. Fit the model using the training data
 4. Evaluate the accuracy of the model
 5. Classify new samples
+
