@@ -6,7 +6,8 @@ The data set contains 50 records of 3 species of Iris:
 - Iris setosa
 - Iris versicolor
 - Iris virginica
-<img style="float: center;" width = 200px; src="http://python.astrotech.io/_images/iris-flowers.png"/>
+<img style="float: center;" width = 500px; src="http://python.astrotech.io/_images/iris-flowers.png"/>
+
 # API Description
 ## tf.contrib.learn
 TensorFlow’s high-level machine learning API (tf.contrib.learn) makes it easy to configure, train, and evaluate a variety of machine learning models. In this tutorial, we’ll use **tf.contrib.learn** to construct a neural network classifier and train it on the **Iris data set** to predict flower species based on sepal/petal geometry.
