@@ -20,6 +20,10 @@ Petal width
 
 and each record has a species (class) assigned.
 
+# Prerequisites
+1. Tensorlfow
+2. Numpy
+3. Urlib
 
 # API Description
 TensorFlow’s API (tf.contrib.learn) is used to configure, train, and evaluate the models. In this, we’ll use **tf.contrib.learn** to construct a neural network classifier and train it on the **Iris data set** to predict flower species based on sepal/petal geometry.
