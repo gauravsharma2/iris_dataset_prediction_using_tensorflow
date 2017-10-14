@@ -11,9 +11,13 @@ The data set contains 50 records of 3 species of Iris:
 Each records contains 4 features:
 
 Sepal length
+
 Sepal width
+
 Petal length
+
 Petal width
+
 and each record has a species (class) assigned.
 
 
