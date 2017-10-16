@@ -20,6 +20,9 @@ Petal width
 
 and each record has a species (class) assigned.
 
+# Problem:
+Predict the flower class based on available attributes.
+
 # Prerequisites
 1. Tensorlfow
 2. Numpy
