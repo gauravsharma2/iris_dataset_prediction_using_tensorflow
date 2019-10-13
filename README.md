@@ -40,3 +40,5 @@ tf.contrib.learn offers the variety of predifined models, called **Estimator** w
 Now then after configuring our model, now we'll fit the model using the **fit** method. Now we have fit our model on the training data; now we can check its accuracy using the **evaluate** method.
 
 To classify new samples we'll use **predict()** method. The model thus predict the following samples.
+The same can be extended to **Keras** and **PyTorch** frameworks.
+Another simple solution is to use **Naive Bayes** algorithm.
